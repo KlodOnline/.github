@@ -1,12 +1,18 @@
-## Hi there 👋
+# KlodOnline
 
-<!--
+> Dépôts de développement du projet *KlodOnline* – jeu de stratégie massivement multijoueur en temps réel, sur carte hexagonale procédurale.
 
-**Here are some ideas to get you started:**
+## Dépôts principaux
+- **KlodWeb** – Site web de présentation et d'inscription au jeu
+- **KlodGame** – Monde de jeu
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Stack technique
+- LAMP (Linux, Apache, MySQL, PHP)
+- HTML / CSS / JS vanilla
+- PHP sans framework
+- WebSocket Node.js pour le chat
+- Docker / Docker Compose pour les environnements
+
+---
+
+> Ce README est temporaire. Une présentation plus organique arrive bientôt.
