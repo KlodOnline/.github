@@ -19,4 +19,16 @@
 
 ---
 
+## Activity
+
+![Org Activity](https://github-readme-activity-graph.vercel.app/graph?username=KlodOnline&theme=github-compact)
+
+![KlodWorld Stats](https://github-readme-stats.vercel.app/api/pin/?username=KlodOnline&repo=KlodWorld&theme=github_dark)
+
+![KlodWeb Stats](https://github-readme-stats.vercel.app/api/pin/?username=KlodOnline&repo=KlodWeb&theme=github_dark)
+
+![Org Streak](https://streak-stats.demolab.com?user=KlodOnline&theme=github-dark)
+
+
+
 > Ce README est temporaire. Une présentation plus organique arrive bientôt.
